@@ -106,10 +106,14 @@ Aqui estão alguns dos projetos que estou desenvolvendo:
 
 ---
 
-## 📲 Como me encontrar?  
-📩 **Email:** [seuemail@email.com](pedrojsilva25@gmail.com)  
-💼 **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/pedro-filho-11a269136/)  
-📜 **Portfólio:** [Em breve! 🚀]  
+## 📲 Como me encontrar?
+
+📩 **Email:** [pedrojsilva25@gmail.com](mailto:pedrojsilva25@gmail.com)  
+💼 **LinkedIn:** [Pedro Filho](https://www.linkedin.com/in/pedro-filho-11a269136/)  
+🌐 **Portfólio:** [Em breve! 🚀](#)
+
+🔗 Você também pode conferir meus projetos e contribuições diretamente aqui no GitHub!  
+
 
 ---
 
