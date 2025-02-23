@@ -100,8 +100,8 @@ Aqui estão alguns dos projetos que estou desenvolvendo:
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6&theme=radical"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrojfilho&show_icons=true&theme=radical"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojfilho&layout=compact&langs_count=6&theme=radical"/>  
 </p>
 
 ---
