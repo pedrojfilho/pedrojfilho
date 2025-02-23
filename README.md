@@ -1,42 +1,52 @@
-<h1 align="center">🔥 Olá! Eu sou Pedro Filho 🚀</h1>
+<h1 align="center" style="color: #ff6347;">🔥 Olá! Eu sou Pedro Filho 🚀</h1>
 
-<p align="center">
-🎯 <strong>Migrando da Fisioterapia para o Mundo da Tecnologia!</strong> <br>
-Apaixonado por inovação e resolução de problemas, estou em transição de carreira para a área de <strong>Desenvolvimento de Software</strong>. <br>
-Atualmente, foco no desenvolvimento de aplicações utilizando <strong>.NET, C#, React e Análise de Dados</strong>. <br><br>
-💡 Sempre buscando aprender algo novo e transformar ideias em soluções reais!
+<p align="center" style="font-size: 1.2em; color: #6a5acd;">
+  🎯 <strong style="color: #ff8c00;">Migrando da Fisioterapia para o Mundo da Tecnologia!</strong> <br>
+  Apaixonado por inovação e resolução de problemas, estou em transição de carreira para a área de <strong style="color: #ff1493;">Desenvolvimento de Software</strong>. <br>
+  Atualmente, foco no desenvolvimento de aplicações utilizando <strong style="color: #32cd32;">.NET, C#, React e Análise de Dados</strong>. <br><br>
+  💡 Sempre buscando aprender algo novo e transformar ideias em soluções reais!
 </p>
 
 ---
 
 ## 🏃 Sobre Mim  
 
-Além da tecnologia, sou um corredor apaixonado! 🏅  
-Atualmente, estou treinando para minha **segunda maratona**, que acontecerá no **Rio de Janeiro este ano**.  
-A corrida me ensina disciplina, resiliência e superação – habilidades que também aplico na programação!  
+<p style="font-size: 1.1em; color: #4682b4;">
+  Além da tecnologia, sou um corredor apaixonado! 🏅  
+  Atualmente, estou treinando para minha <strong style="color: #ff6347;">segunda maratona</strong>, que acontecerá no <strong style="color: #ff6347;">Rio de Janeiro este ano</strong>.  
+  A corrida me ensina disciplina, resiliência e superação – habilidades que também aplico na programação!
+</p>
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
 
 ### 🚀 Backend  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%2343853D.svg?style=for-the-badge&logo=ef&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-%2343853D.svg?style=for-the-badge&logo=ef&logoColor=white" alt="Entity Framework" />
+</p>
 
 ### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
 ### 📊 Banco de Dados & Dados  
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)  
+<p>
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+</p>
 
 ### ⚙️ Ferramentas & Workflow  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
@@ -113,7 +123,6 @@ Aqui estão alguns dos projetos que estou desenvolvendo:
 🌐 **Portfólio:** [Em breve! 🚀](#)
 
 🔗 Você também pode conferir meus projetos e contribuições diretamente aqui no GitHub!  
-
 
 ---
 
