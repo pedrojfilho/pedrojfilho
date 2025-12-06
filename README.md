@@ -1,129 +1,151 @@
-<h1 align="center" style="color: #ff6347;">🔥 Olá! Eu sou Pedro Filho 🚀</h1>
+<h1 align="center">🚀 Olá! Eu sou <span style="color:#4c8bf5">Pedro Filho</span></h1>
 
-<p align="center" style="font-size: 1.2em; color: #6a5acd;">
-  🎯 <strong style="color: #ff8c00;">Migrando da Fisioterapia para o Mundo da Tecnologia!</strong> <br>
-  Apaixonado por inovação e resolução de problemas, estou em transição de carreira para a área de <strong style="color: #ff1493;">Desenvolvimento de Software</strong>. <br>
-  Atualmente, foco no desenvolvimento de aplicações utilizando <strong style="color: #32cd32;">.NET, C#, React e Análise de Dados</strong>. <br><br>
-  💡 Sempre buscando aprender algo novo e transformar ideias em soluções reais!
+<p align="center" style="font-size: 1.2em;">
+  <strong>Data Engineer | Data Analyst | AWS | Azure | Databricks | Python | SQL | Spark</strong><br>
+  Apaixonado por dados, arquitetura de pipelines e soluções em larga escala.
 </p>
 
 ---
 
-## 🏃 Sobre Mim  
+## 📌 Sobre Mim
 
-<p style="font-size: 1.1em; color: #4682b4;">
-  Além da tecnologia, sou um corredor apaixonado! 🏅  
-  Atualmente, estou treinando para minha <strong style="color: #ff6347;">segunda maratona</strong>, que acontecerá no <strong style="color: #ff6347;">Rio de Janeiro este ano</strong>.  
-  A corrida me ensina disciplina, resiliência e superação – habilidades que também aplico na programação!
-</p>
+Sou um profissional apaixonado por **Engenharia de Dados**, construindo pipelines, arquiteturas em cloud e análises que geram impacto real. Minha ultima experiencia foi na IBM Brasil atuando em um time de engenharia de dados com data warehouse. 
+
+💡 Atuo com:
+- ETL/ELT pipelines (RAW → Bronze → Silver → Gold)
+- AWS (S3, Glue, Athena, IAM, Step Functions)
+- Azure (Data Factory, Databricks, Data Lake)
+- Spark e PySpark para processamento distribuído
+- SQL avançado para modelagem e análise
+- Power BI e storytelling analítico
+- Data Quality e governança de dados
+
+🏃 Corredor de longas distâncias, disciplina e consistência fazem parte de tudo o que faço.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+# 🛠️ Tecnologias & Ferramentas
 
-### 🚀 Backend  
+## ☁️ **Cloud – AWS & Azure**
 <p>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-%2343853D.svg?style=for-the-badge&logo=ef&logoColor=white" alt="Entity Framework" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Data%20Lake-039BE5?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
-### 🎨 Frontend  
+---
+
+## 🔥 **Engenharia de Dados**
 <p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-### 📊 Banco de Dados & Dados  
+---
+
+## 🐍 **Programação & Query Engines**
 <p>
-  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white"/>
 </p>
 
-### ⚙️ Ferramentas & Workflow  
+---
+
+## 📊 **Análise de Dados**
 <p>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Projetos em Destaque  
-
-Aqui estão alguns dos projetos que estou desenvolvendo:
-
-### 🔹 **1. Sistema de Controle de Gastos**  
-*Status: Em Desenvolvimento*  
-💡 **O que é:** Um sistema para controlar suas finanças pessoais. Com um design simples, você poderá adicionar, editar e filtrar suas despesas de forma fácil e prática.  
-🚀 **Destaques:**  
-- Criação, edição e exclusão de transações financeiras.  
-- Filtros avançados por categoria, valores e períodos.  
-- Dashboard interativo para visualização dos seus gastos.  
-🔧 **Techs:** .NET (C#), React (TypeScript), SQLite/PostgreSQL, JWT para autenticação.  
+# 📂 Projetos
 
 ---
 
-### 🔹 **2. API de Gerenciamento de Tarefas**  
-*Status: Em Planejamento*  
-💡 **O que é:** Uma API que ajuda você a gerenciar suas tarefas de forma simples e prática.  
-🚀 **Destaques:**  
-- CRUD de tarefas (criar, ler, atualizar e excluir).  
-- Autenticação JWT para maior segurança.  
-- Filtros para pesquisa por prazo, prioridade e status.  
-🔧 **Techs:** .NET Core, Entity Framework, SQLite/PostgreSQL.  
+# ✅ **PROJETOS CONCLUÍDOS**
+
+## 🧠 **IBM – Data Quality Validators & ETL Pipelines**
+**Status:** ✔️ Concluído  
+**Descrição:**  
+Desenvolvimento e manutenção de pipelines corporativos com forte foco em qualidade de dados:
+
+- Duplicate Check  
+- Referential Integrity  
+- Schema Validation  
+- Missing Values  
+- Filter Type 2  
+- Automação em pipelines EID, Datamart Parquet, Self-Serve e EPMM  
+
+🔧 *Techs:* PySpark, SQL, YAML, IBM COS, Data Quality Validators
 
 ---
 
-### 🔹 **3. Dashboard de Análise de Dados**  
-*Status: Em Planejamento*  
-💡 **O que é:** Um dashboard dinâmico para analisar dados financeiros e gerar insights úteis.  
-🚀 **Destaques:**  
-- Visualização interativa dos dados.  
-- Gráficos dinâmicos para análise de despesas.  
-- Relatórios detalhados para otimização dos gastos.  
-🔧 **Techs:** Python (Pandas, Matplotlib), Power BI, Jupyter Notebook.  
+# 🚧 **PROJETOS EM ANDAMENTO**
+
+## 🔥 **AWS Olist ETL Project – Arquitetura Lakehouse**
+**Status:** 🟡 Em andamento  
+Construção de todo o pipeline Olist baseado em arquitetura moderna de engenharia de dados:
+
+- RAW → Bronze → Silver → Gold  
+- Glue Crawlers + Glue Jobs (PySpark)  
+- Athena  
+- Step Functions  
+- IAM granular  
+- Modelagem analítica e otimizações  
+
+📌 *Um dos principais projetos do meu portfólio atual.*
 
 ---
 
-### 🔹 **4. Pequeno App de Lista de Compras**  
-*Status: Em Planejamento*  
-💡 **O que é:** Um app simples para ajudar você a organizar suas compras do mercado.  
-🚀 **Destaques:**  
-- Adicione itens à sua lista e marque-os como comprados.  
-- Interface amigável e funcional.  
-- Itens salvos no `localStorage` para persistência.  
-🔧 **Techs:** React, TypeScript, Tailwind, Zustand ou Context API.  
+# 🧭 **PROJETOS FUTUROS**
+
+### 📊 Data Analytics – Vendas & Performance  
+Python + Power BI + SQL
+
+### ⚙️ Pipeline ETL com Databricks & PySpark  
+Delta Lake, Z-Order, Vacuum, Data Lakehouse
+
+### 📈 SQL Challenges – Consultas Avançadas  
+Window functions, CTEs, queries analíticas
 
 ---
 
-### 🔹 **5. Bot do WhatsApp para Automação de Mensagens**  
-*Status: Em Planejamento*  
-💡 **O que é:** Um bot para automatizar o envio de mensagens no WhatsApp, perfeito para lembretes ou confirmações.  
-🚀 **Destaques:**  
-- Envio de mensagens programadas e automáticas.  
-- Integração com a API Twilio ou Selenium.  
-🔧 **Techs:** Python, Selenium ou Twilio API.  
+# 📊 GitHub Stats
 
----
-
-## 📈 GitHub Stats  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrojfilho&show_icons=true&theme=radical"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojfilho&layout=compact&langs_count=6&theme=radical"/>  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrojfilho&theme=tokyonight" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrojfilho&theme=tokyonight" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrojfilho&theme=tokyonight" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrojfilho&theme=tokyonight" height="180">
 </p>
 
 ---
 
-## 📲 Como me encontrar?
+# 📈 Activity Graph
 
-📩 **Email:** [pedrojsilva25@gmail.com](mailto:pedrojsilva25@gmail.com)  
-💼 **LinkedIn:** [Pedro Filho](https://www.linkedin.com/in/pedro-filho-11a269136/)  
-🌐 **Portfólio:** [Em breve! 🚀](#)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrojfilho&theme=tokyo-night&hide_border=true" />
+</p>
 
-🔗 Você também pode conferir meus projetos e contribuições diretamente aqui no GitHub!  
+
+# 📬 Como me encontrar?
+
+📩 **Email:** pedrojsilva25@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/pedro-jsfilho
 
 ---
 
-✨ *Sempre aprendendo e buscando novos desafios!*
+✨ *Sempre evoluindo — um pipeline por vez!*
