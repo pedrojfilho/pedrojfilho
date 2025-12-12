@@ -90,28 +90,49 @@ Desenvolvimento e manutenção de pipelines corporativos com forte foco em quali
 
 ---
 
-# 🚧 **PROJETOS EM ANDAMENTO**
+## 🔥 **AWS Olist ETL Project – Lakehouse Architecture**
+**Status:** ✔️ Concluído  
 
-## 🔥 **AWS Olist ETL Project – Arquitetura Lakehouse**
-**Status:** 🟡 Em andamento  
-Construção de todo o pipeline Olist baseado em arquitetura moderna de engenharia de dados:
+Projeto completo de **Engenharia de Dados**, envolvendo a construção de um pipeline end-to-end
+baseado em arquitetura **Lakehouse** e boas práticas de **Data Warehouse / Analytics Engineering**.
 
-- RAW → Bronze → Silver → Gold  
-- Glue Crawlers + Glue Jobs (PySpark)  
-- Athena  
-- Step Functions  
-- IAM granular  
-- Modelagem analítica e otimizações  
+### 🔧 Tecnologias & Conceitos
+- Arquitetura **RAW → Bronze → Silver → Gold**
+- **AWS Glue** (Jobs em PySpark e Crawlers)
+- **Amazon S3** como Data Lake
+- **Amazon Athena** para queries analíticas
+- **AWS Step Functions** para orquestração
+- **IAM** com permissões granulares
+- **Modelagem dimensional (Star Schema)**
+- Fact tables base e agregadas (KPIs)
+- Validação de dados e tratamento de edge cases
 
-📌 *Um dos principais projetos do meu portfólio atual.*
+📌 *Projeto finalizado e consolidado como um dos principais cases do meu portfólio em Engenharia de Dados.*
 
 ---
 
+# 🚧 **Projetos em Andamento**
+
+### 📊 **Data Analytics – Vendas & Performance**
+**Status:** 🔄 Em desenvolvimento  
+
+Novo projeto focado em **análise de dados e visualização**, com ênfase em transformar dados
+analíticos em **insights de negócio e dashboards executivos**.
+
+### 🛠️ Tecnologias previstas
+- Python (Pandas, análise exploratória)
+- SQL
+- Power BI
+- Modelagem semântica e métricas de negócio
+- Storytelling com dados
+
+📌 *Projeto voltado à camada de consumo e tomada de decisão, complementando minha atuação
+em Engenharia de Dados.*
+
+---
+
+
 # 🧭 **PROJETOS FUTUROS**
-
-### 📊 Data Analytics – Vendas & Performance  
-Python + Power BI + SQL
-
 ### ⚙️ Pipeline ETL com Databricks & PySpark  
 Delta Lake, Z-Order, Vacuum, Data Lakehouse
 
